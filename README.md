@@ -15,7 +15,7 @@ Para esta atividade MAPA, crie o *Diagrama de Entidade Relacionamento* para este
 
 
 - Para a elaboração desta atividade, levei em consideração o que foi abordado no livro e passado pelo professor durante as aulas. Mas, tenho ciência das outras maneiras de realizar o mesmo diagrama.
-- Site utilizado: https://app.diagrams.net/
+- Site utilizado: https://lucid.app/lucidchart/
 
 
 ![MAPA_DER_BD1](https://github.com/Kelly-Prone/diagramas/assets/72274839/83b57ccb-d875-4741-87a6-707ac0e5cf13)
